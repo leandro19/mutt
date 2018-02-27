@@ -1,0 +1,4 @@
+identity "leandrodribeiro1@gmail.com"
+hostname smtp.gmail.com:587
+username "leandrodribeiro1@gmail.com"
+starttls required 
